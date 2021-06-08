@@ -1,7 +1,8 @@
-### Aloha
+# Aloha
 
-## DSUdosborn is Douglas Osborn  
-# I am a CIT student at Dixie State University
+## DSUdosborn is Douglas Osborn 
+
+### I am a CIT student at Dixie State University
 
 <!--
 **DSUdosborn/DSUdosborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
