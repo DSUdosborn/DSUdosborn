@@ -1,7 +1,5 @@
 # Aloha
 
-## DSUdosborn is Douglas Osborn 
-
 ### I am a CIT student at Dixie State University
 
 <!--
